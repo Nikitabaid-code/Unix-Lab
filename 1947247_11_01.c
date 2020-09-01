@@ -8,7 +8,7 @@ return data1 + num2;
 
 int data2;
 //int data=23;   
-char c[]="christ";
+char ch[]="Unix Lab Work";
 int main()
 {
 //  int data1;                                                          
